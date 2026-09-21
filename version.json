@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "client_url": "https://github.com/usovandrii-dev/silence-releases/releases/download/v1.0.7/silence.jar",
-  "changelog": "Fix black hole overexposure, add tone mapping and clean Interstellar arches"
+  "version": "1.0.8",
+  "client_url": "https://github.com/usovandrii-dev/silence-releases/releases/download/v1.0.8/silence.jar",
+  "changelog": "Remove Black Hole shader and clean up 5 animations"
 }
